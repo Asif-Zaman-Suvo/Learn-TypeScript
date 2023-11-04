@@ -1,6 +1,6 @@
 # Learn-TypeScript
 
-tryning to learn new tech like typescript
+## Tryning to learn new tech like typescript
 
 ### TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript.[5] Because TypeScript is a superset of JavaScript, all JavaScript programs are syntactically valid TypeScript, but they can fail to type-check for safety reasons.
 
